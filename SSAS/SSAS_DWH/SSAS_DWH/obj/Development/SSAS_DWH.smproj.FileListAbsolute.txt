@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\SSAS_DWH\SSAS_DWH\bin\Model.asdatabase
+C:\Users\admin\source\repos\SSAS_DWH\SSAS_DWH\bin\Model.deploymenttargets
+C:\Users\admin\source\repos\SSAS_DWH\SSAS_DWH\bin\Model.deploymentoptions
+C:\Users\admin\source\repos\SSAS_DWH\SSAS_DWH\obj\Development\SSAS_DWH.smproj.AssemblyReference.cache
+C:\Users\admin\source\repos\SSAS_DWH\SSAS_DWH\obj\Development\SSAS_DWH.smproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SSAS_DWH\SSAS_DWH\obj\Development\Model.asdatabase
+C:\Users\admin\source\repos\SSAS_DWH\SSAS_DWH\obj\Development\Model.deploymentoptions
+C:\Users\admin\source\repos\SSAS_DWH\SSAS_DWH\obj\Development\Model.deploymenttargets
